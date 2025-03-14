@@ -4,3 +4,4 @@ Saya Ibnu Fadhilah dengan NIM 2300613 mengerjakan Tugas Praktikum 3 dalam mata k
 
 # Desain OOP
 Program terdiri dari satu class, yaitu "Petshop"dengan desain sebagai berikut:
+ 
